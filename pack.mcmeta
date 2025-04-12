@@ -2,7 +2,7 @@
   "pack": {
     "pack_format": 46,
     "description": "Adds custom music discs to Minecraft! \n§5Alacrity §232x pack \n§7Author: §3Satellence§8",
-    "supported_formats": [4, 46, 15],
+    "supported_formats": {"min_inclusive": 4, "max_inclusive": 999},
     "overlays": {
       "entries": [
         {
