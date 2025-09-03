@@ -23,5 +23,5 @@
 6. Git push this project
 7. Put that new resource-pack.mcpack to  {paperserver}/plugins/Geyser-Spigot/packs/resource-pack.mcpack
 8. Get the sha1 from our new resource-pack.zip at the root dir that we just pushed
-	$sha1sum resource-pack.zip
+	$ sha1sum resource-pack.zip
 	And set it to {paperServer}/server.properties "resource-pack-sha1" key
